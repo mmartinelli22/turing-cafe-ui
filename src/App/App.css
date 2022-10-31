@@ -5,9 +5,11 @@
   flex-direction: column;
   align-items: center;
   width: 100%;
+  background-image: url('../assets/cafe-img.jpeg');
   height: 100vh;
   text-align: center;
-  color: teal;
+  color: rgb(115, 204, 133);
+  background-color: rgb(95, 143, 160);
 }
 
 h1 {
@@ -35,7 +37,7 @@ h1 {
   padding-right: 2rem;
   padding-left: 2rem;
   margin: 1rem;
-  border: 0.2rem solid teal;
+  border: 0.2rem solid rgb(0, 0, 0);
   border-radius: 1.5rem;
   height: 13rem;
 }
